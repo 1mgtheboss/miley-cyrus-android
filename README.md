@@ -1,4 +1,4 @@
 miley-cyrus-android
 ===================
 
-Miley Cyrus
+© 2014 Manojit Ghosh
