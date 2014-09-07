@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Miley Cyrus</string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#ffffff</color>
+    <color name="color_twitter">#a349a4</color>
+    <color name="color_site">#3f48cc</color>
+    <color name="color_fb">#00a2e8</color>
+    <color name="color_eonline">#22b14c</color>
+    <color name="color_mtv">#FFF200</color>
+    <color name="color_instagram">#ff7f27</color>
+    <color name="color_iloveyou">#ee1c24</color>
+    <string name="button1">\u0020Miley on Twitter\u0020</string>
+    <string name="button2">\u0020Miley on Facebook\u0020</string>
+    <string name="button3">\u0020Miley on Instagram\u0020</string>
+    <string name="button4">\u0020Miley on dotcom\u0020</string>
+    <string name="button5">\u0020Miley on mtv\u0020</string>
+    <string name="button6">\u0020Miley on eonline\u0020</string>
+    <string name="button7">\u0020Miley, I \u2665 you.\u0020</string>
+
+</resources>
